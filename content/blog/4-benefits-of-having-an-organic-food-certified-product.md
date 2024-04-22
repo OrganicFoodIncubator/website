@@ -4,7 +4,6 @@ date = 2020-03-02
 
 [params]
 author = "Mike Schwartz"
-thumbnail = "images/bg.jpg"
 +++
 
 You just got your new product finished, you got your Scheduled Process, and now
