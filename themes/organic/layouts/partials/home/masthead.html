@@ -1,0 +1,12 @@
+{{ $tagline := .Site.Params.tagline }}
+{{ with resources.Get .Site.Params.masthead_bg }}
+<div id="masthead" style="background-image: url({{ .Permalink }});">
+  <h1>{{ $tagline }}</h1>
+  <p>
+    We specialize in creating innovative products for CPG brands, food service enterprises, and other innovators the
+    food industry. Whether organic or conventional, offer a complete solution for businesses eager to launch new
+    offerings or expand their existing products in the market. We are a team of chefs, food scientists, and business
+    leaders with a passion for all things food and business.
+  </p>
+</div>
+{{ end }}

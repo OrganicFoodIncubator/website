@@ -1,0 +1,37 @@
+baseURL = 'https://ofiwebsite.rebeccafessenden.com'
+languageCode = 'en-us'
+title = 'Organic Food Incubator'
+
+theme = 'organic'
+
+
+[[menus.main]]
+name = 'Who We Are'
+pageRef = '/about'
+weight = 20
+
+[[menus.main]]
+name = 'What We Do'
+pageRef = '/services'
+weight = 40
+
+[[menus.main]]
+name = 'Our Blog'
+pageRef = '/blog'
+weight = 60
+
+[params]
+logo = "images/resized_logo.png"
+tagline = "Solutions For Food And Beverage Manufacturing"
+masthead_bg = "images/bg.jpg"
+
+  [params.contact_info]
+  tel = "(973) 748-0111"
+  address = "38 Davey St. Bloomfield, NJ 07003"
+  email = "info@organicfoodincubator.com"
+
+  [params.socials]
+  facebook_url = "https://www.facebook.com/OrganicFoodIncubator/"
+  twitter_url = "https://x.com/OrganicFoodInc"
+  instagram_url = "https://instagram.com/OrganicFoodIncubator/"
+  youtube_url = "https://www.youtube.com/channel/UCr2dcD-HACpSYL7Bg8DxagA"

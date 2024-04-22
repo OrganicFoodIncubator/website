@@ -1,0 +1,11 @@
+<section id="services">
+  {{ with .Site.GetPage "/services" }}
+  {{ range .Pages }}
+  <div class="service">
+    <h3>{{ .LinkTitle }}</h3>
+    <p>{{ .Summary }}</p>
+    <a class="learn-more" href="{{ .Permalink }}">Learn more...</a>
+  </div>
+  {{ end }}
+  {{ end }}
+</section>

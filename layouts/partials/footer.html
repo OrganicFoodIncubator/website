@@ -1,0 +1,32 @@
+<div id="contact">
+  <small>Contact Us</small>
+  <div>
+    <small>Phone: {{ .Site.Params.contact_info.tel }}</small><br>
+    <small>Address: {{ .Site.Params.contact_info.address }}</small><br>
+    <small>Email: {{ .Site.Params.contact_info.email }}</small>
+  </div>
+</div>
+{{ $socials := .Site.Params.socials }}
+{{ if .Site.Params.socials }}
+<div id="socials">
+  <small id="follow-us">Follow us on:</small>
+  <div id="social-links">
+    {{ with $socials.facebook_url }}
+    <a href="{{ . }}" target="_blank"><i class="fa-brands fa-square-facebook"></i></a>
+    {{ end }}
+    {{ with $socials.twitter_url }}
+    <a href="{{ . }}" target="_blank"><i class="fa-brands fa-square-x-twitter"></i></a>
+    {{ end }}
+    {{ with $socials.instagram_url }}
+    <a href="{{ . }}" target="_blank"><i class="fa-brands fa-square-instagram"></i></a>
+    {{ end }}
+    {{ with $socials.pinterest_url }}
+    <a href="{{ . }}" target="_blank"><i class="fa-brands fa-square-pinterest"></i></a>
+    {{ end }}
+    {{ with $socials.youtube_url }}
+    <a href="{{ . }}" target="_blank"><i class="fa-brands fa-square-youtube"></i></a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+<small id="copyright">&copy; {{ time.Now | time.Format "2006" }} {{ site.Title }}. All rights reserved.</small>

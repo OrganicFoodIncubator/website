@@ -1,0 +1,4 @@
+{{ with resources.Get site.Params.logo }}
+<a href="/"><img src="{{ .Permalink }}" alt="logo"></a>
+{{ end }}
+{{ partial "navbar.html" . }}
