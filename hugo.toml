@@ -21,7 +21,7 @@ pageRef = '/blog'
 weight = 60
 
 [params]
-logo = "images/resized_logo.png"
+logo = "images/logo.png"
 tagline = "Solutions For Food And Beverage Manufacturing"
 masthead_bg = "images/bg.jpg"
 
