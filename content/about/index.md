@@ -70,3 +70,5 @@ nurturing food innovation, promoting sustainability, and empowering food
 entrepreneurs to bring their visions to fruition. Its history is a testament to
 the power of collaboration, creativity, and dedication to making a positive
 impact on the food industry and the planet.
+
+[Meet our wonderful team.](profiles)

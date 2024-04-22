@@ -1,5 +1,6 @@
 +++
 title = "Our Blog"
+paginate = 5
 +++
 
 The food and beverage manufacturing industry is full of important info and
