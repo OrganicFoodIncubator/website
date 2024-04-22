@@ -1,10 +1,9 @@
-+++
-title = "4 Benefits Of Having an Organic Food Certified Product"
-date = 2020-03-02
-
-[params]
-author = "Mike Schwartz"
-+++
+---
+title: Four Benefits Of Having an Organic Food Certified Product
+date: 2020-03-02
+params:
+  author: Mike Schwartz
+---
 
 You just got your new product finished, you got your Scheduled Process, and now
 you’re ready to get your product to mainstream markets and supermarkets. But
