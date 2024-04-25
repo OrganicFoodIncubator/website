@@ -1,6 +1,5 @@
 {{ define "main" }}
 <section id="content">
-  <h1>{{ .Title }}</h1>
   <small class="metadata">By {{ .Params.Author }} | <time datetime="{{ .Date }}">{{ .Date | time.Format
       ":date_medium" }}</time></small>
   {{ .Content }}

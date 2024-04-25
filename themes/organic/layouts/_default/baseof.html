@@ -8,7 +8,8 @@
 </head>
 
 <body>
-  <header>
+  {{ $link := (resources.Get (site.Params.image)).Permalink }}
+  <header style="background-image: url({{ $link }});">
     {{ partial "header.html" . }}
   </header>
   <main>

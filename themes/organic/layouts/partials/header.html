@@ -1,4 +1,9 @@
-{{ with resources.Get site.Params.logo }}
-<a href="/"><img src="{{ .Permalink }}" alt="logo" height="70"></a>
-{{ end }}
-{{ partial "navbar.html" . }}
+<div id="navigation">
+  {{ with resources.Get site.Params.logo }}
+  <a href="/"><img src="{{ .Permalink }}" alt="logo" height="70"></a>
+  {{ end }}
+  {{ partial "navbar.html" . }}
+</div>
+<div id="hero">
+  {{ partial "hero.html" . }}
+</div>

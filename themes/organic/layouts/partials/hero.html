@@ -1,0 +1,8 @@
+{{ $herotext := .Page.Title }}
+{{ if .IsHome }}{{ $herotext = .Site.Params.tagline }}{{ end }}
+<h1>{{ $herotext }}</h1>
+{{ $subtitle := .Page.Params.subtitle }}
+{{ if .IsHome }}{{ $subtitle = .Site.Params.subtitle }}{{ end }}
+{{ with $subtitle }}
+<p>{{ . }}</p>
+{{ end }}
