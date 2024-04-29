@@ -3,6 +3,7 @@ title: Four Benefits Of Having an Organic Food Certified Product
 date: 2023-03-02T00:00:00.000Z
 params:
   author: Mike Schwartz
+params.image: /images/uploads/img_6387.jpg
 ---
 
 You just got your new product finished, you got your Scheduled Process, and now
