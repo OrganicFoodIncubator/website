@@ -9,6 +9,9 @@
 
 <body>
   {{ $link := (resources.Get (site.Params.image)).Permalink }}
+  {{ with .Params.image }}
+  {{ $link := . }}
+  {{ end }}
   <header style="background-image: url({{ $link }});">
     {{ partial "header.html" . }}
   </header>

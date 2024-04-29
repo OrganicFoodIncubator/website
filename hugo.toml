@@ -4,7 +4,6 @@ title = 'Organic Food Incubator'
 
 theme = 'organic'
 
-
 [[menus.main]]
 name = 'Who We Are'
 pageRef = '/about'
