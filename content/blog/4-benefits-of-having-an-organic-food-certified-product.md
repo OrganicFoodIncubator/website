@@ -5,7 +5,6 @@ params:
   author: Mike Schwartz
 params.image: /images/uploads/img_6387.jpg
 ---
-
 You just got your new product finished, you got your Scheduled Process, and now
 you’re ready to get your product to mainstream markets and supermarkets. But
 then your wondering should you get your product organic food certified or not.
