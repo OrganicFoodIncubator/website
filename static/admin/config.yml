@@ -14,6 +14,7 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Hero Image", name: "params.image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Date", name: "date", widget: "datetime" }
   - name: services
