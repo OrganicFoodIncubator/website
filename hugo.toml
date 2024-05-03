@@ -5,19 +5,36 @@ title = 'Organic Food Incubator'
 theme = 'organic'
 
 [[menus.main]]
+identifier = 'about'
 name = 'Who We Are'
 pageRef = '/about'
 weight = 20
 
 [[menus.main]]
+identifier = 'services'
 name = 'What We Do'
-pageRef = '/services'
 weight = 40
 
 [[menus.main]]
+identifier = 'blog'
 name = 'Our Blog'
 pageRef = '/blog'
 weight = 60
+
+[[menus.main]]
+identifier = 'contract-manufacturing'
+parent = 'services'
+name = "Contract Manufacturing"
+pageRef = '/services/contract-manufacturing'
+weight = 100
+
+[[menus.main]]
+identifier = 'operations-management'
+parent = 'services'
+name = "Operations Management"
+pageRef = '/services/operations-management'
+weight = 110
+
 
 [params]
 logo = "images/logo.png"

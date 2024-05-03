@@ -1,9 +1,18 @@
 <nav>
-  <ul>
-    {{ range .Site.Menus.main }}
-    <li>
+  {{ range site.Menus.main }}
+  {{ if .HasChildren }}
+  <div class="dropdown">
+    <span class="dropdown-header">{{ .Name }}</span>
+    <div class="dropdown-content">
+      {{ range .Children }}
       <a href="{{ .URL }}">{{ .Name }}</a>
-    </li>
-    {{ end }}
-  </ul>
+      {{ end }}
+    </div>
+  </div>
+  {{ else }}
+  {{ end }}
+  {{ if .URL }}
+  <a href="{{ .URL }}">{{ .Name }}</a>
+  {{ end }}
+  {{ end }}
 </nav>
