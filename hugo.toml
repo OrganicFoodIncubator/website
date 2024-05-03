@@ -35,6 +35,19 @@ name = "Operations Management"
 pageRef = '/services/operations-management'
 weight = 110
 
+[[menus.main]]
+identifier = 'coaching-and-training'
+parent = 'services'
+name = "Coaching and Training"
+pageRef = '/services/coaching-and-training'
+weight = 120
+
+[[menus.main]]
+identifier = 'product-development'
+parent = 'services'
+name = "Product Development"
+pageRef = '/services/product-development'
+weight = 130
 
 [params]
 logo = "images/logo.png"
