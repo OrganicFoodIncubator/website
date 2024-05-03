@@ -1,10 +1,10 @@
-+++
-title = "Business Tip: Pretend You're Bigger Than You Are"
-date = 2019-08-06
-
-[params]
-author = "Mike Schwartz"
-+++
+---
+title: "Business Tip: Pretend You're Bigger Than You Are"
+date: 2019-08-06
+params:
+  author: Mike Schwartz
+params.image: /images/uploads/img_6387.jpg
+---
 
 Just like meeting a person for the first time, businesses often make judgments
 on first impressions. Here’s a business tip that you might want to consider-
