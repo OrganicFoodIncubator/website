@@ -80,8 +80,7 @@ section {
 }
 footer {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
   align-items: center;
   color: #f2f2f2;
   background-color: #0a0a0a;
@@ -90,11 +89,26 @@ footer {
 footer a {
   color: #f2f2f2;
 }
+.fa-square-facebook {
+  color: #1877f2;
+}
+.fa-square-x-twitter {
+  color: #f2f2f2;
+}
+.fa-square-instagram {
+  color: #dd2a7b;
+}
+.fa-square-youtube {
+  color: #ff0000;
+}
 #logo {
   height: 60px;
+  background-color: #f2f2f266;
+  border-radius: 2px;
+  margin: 5px;
 }
 #hero {
-  height: 75vh;
+  min-height: 75vh;
   font-size: 1.2em;
   display: flex;
   flex-direction: column;
@@ -211,5 +225,9 @@ td {
   article img {
     margin-left: auto;
     padding: 1em;
+  }
+  footer {
+    flex-direction: row;
+    justify-content: space-around;
   }
 }

@@ -1,6 +1,6 @@
 <div id="navigation">
   {{ with resources.Get site.Params.logo }}
-  <a href="/"><img src="{{ .Permalink }}" alt="logo" height="70"></a>
+  <a href="/"><img src="{{ .Permalink }}" alt="logo" height="70" id="logo"></a>
   {{ end }}
   {{ partial "navbar.html" . }}
 </div>
