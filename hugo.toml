@@ -5,10 +5,23 @@ title = 'Organic Food Incubator'
 theme = 'organic'
 
 [[menus.main]]
-identifier = 'about'
+identifier = 'who-we-are'
 name = 'Who We Are'
-pageRef = '/about'
 weight = 20
+
+[[menus.main]]
+identifier = 'about'
+parent = 'who-we-are'
+name = 'About'
+pageRef = '/about'
+weight = 220
+
+[[menus.main]]
+identifier = 'profiles'
+parent = 'who-we-are'
+name = 'Meet the Team'
+pageRef = '/about/profiles'
+weight = 240
 
 [[menus.main]]
 identifier = 'services'
