@@ -1,6 +1,8 @@
-+++
-title = "About the Organic Food Incubator"
-+++
+---
+title: About the Organic Food Incubator
+params:
+  image: /images/uploads/sauces.jpeg
+---
 
 ## Mission and Vision
 
