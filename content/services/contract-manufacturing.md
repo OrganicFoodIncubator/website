@@ -1,6 +1,8 @@
 ---
 title: Contract Manufacturing
 weight: 10
+params:
+  image: /images/uploads/sauces.jpeg
 ---
 ###### Commercialize Your New Or Existing Food Business 
 
