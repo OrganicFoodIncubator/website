@@ -2,7 +2,7 @@
 title: Coaching and Training
 weight: 30
 params:
-  image: /images/uploads/pic00018.jpeg
+  image: /images/uploads/bob_beamon_1968.jpg
 ---
 A coach is essential in developing a food brand. They provide industry-specific expertise, personalized guidance, and mentorship.
 
