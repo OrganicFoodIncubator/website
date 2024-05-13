@@ -24,6 +24,7 @@ collections:
         widget: object
         fields:
           - { label: "Hero Image", name: "image", widget: "image" }
+          - { label: "Author", name: "author", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Date", name: "date", widget: "datetime" }
   - name: services
