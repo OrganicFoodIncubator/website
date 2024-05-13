@@ -2,11 +2,11 @@
 title: Coaching and Training
 weight: 30
 ---
-## Industry specific expertise, personalized guidance, and mentorship.
-
 A coach is essential in developing a food brand. They provide industry-specific expertise, personalized guidance, and mentorship.
 
 <!--more-->
+
+## Industry specific expertise, personalized guidance, and mentorship.
 
  Our decades of experience help navigate product scaling complexities, understand consumer trends, and comply with various food safety regulators. With OFI support, you can make informed decisions, avoid common pitfalls, and achieve long-term success in the competitive food industry.
 
