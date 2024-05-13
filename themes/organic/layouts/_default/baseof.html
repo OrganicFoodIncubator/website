@@ -8,11 +8,8 @@
 </head>
 
 <body>
-  {{ $link := (resources.Get (site.Params.image)).Permalink }}
-  {{ with .Params.image }}
-  {{ $link := . }}
-  {{ end }}
-  <header style="background-image: url({{ $link }});">
+  {{ $image := or .Params.image site.Params.default_image }}
+  <header style="background-image: url({{ $image }});">
     {{ partial "header.html" . }}
   </header>
   <main>
