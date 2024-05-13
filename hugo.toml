@@ -17,11 +17,18 @@ pageRef = '/about'
 weight = 220
 
 [[menus.main]]
-identifier = 'profiles'
+identifier = 'meet-the-team'
 parent = 'who-we-are'
 name = 'Meet the Team'
-pageRef = '/about/profiles'
+pageRef = '/about/meet-the-team'
 weight = 240
+
+[[menus.main]]
+identifier = 'building-community'
+parent = 'who-we-are'
+name = 'Building Community'
+pageRef = '/about/building-community'
+weight = 260
 
 [[menus.main]]
 identifier = 'services'
