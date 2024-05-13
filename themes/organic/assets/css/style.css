@@ -37,7 +37,7 @@ small {
 header {
   color: #f2f2f2;
   background-position: center;
-  background-repeat: norepeat;
+  background-repeat: no-repeat;
 }
 #navigation {
   display: flex;
