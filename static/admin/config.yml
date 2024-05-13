@@ -7,9 +7,9 @@ media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - name: homepage
-    label: Homepage
-    folder: content/
+  - name: about
+    label: About
+    folder: content/about/
     fields:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: blog
