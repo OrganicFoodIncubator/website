@@ -30,11 +30,14 @@ collections:
     label: Services
     folder: content/services
     fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "services",
-        }
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "services"
+      - label: Parameters
+        name: "params"
+        widget: object
+        fields:
+          - { label: "Hero Image", name: "image", widget: "image" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
