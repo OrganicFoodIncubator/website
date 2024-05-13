@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Test Entry
-params.image: /images/uploads/img_6387.jpg
+params.image: /static/images/uploads/pic00006.jpeg
 date: 2024-05-11T13:19:00.000Z
 ---
 This is a test entry.
