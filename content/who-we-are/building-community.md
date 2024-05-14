@@ -13,6 +13,8 @@ Principal Akbar Cook and some like minded school alumni reached out to OFI as a 
 
 ![Westonian magazine cover](/images/uploads/westonian.jpg "Westonian magazine cover")
 
+![Hand filling hot sauce](/images/uploads/dsc_0065-large.jpeg)
+
 National
 
 https://www.youtube.com/watch?v=O1P6oZjfR54
