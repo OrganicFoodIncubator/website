@@ -8,7 +8,7 @@ html {
 body {
   font-family: Avenir, sans-serif;
   font-size: 20px;
-  background: #f2f2f2;
+  background: #efeff5;
   margin: 0;
   padding: 0;
   line-height: 1.5;
@@ -126,7 +126,7 @@ footer {
 }
 .service {
   border-radius: 5px;
-  background-color: lightgrey;
+  background-color: #e0e0eb;
 }
 .service h3 {
   text-align: center;
