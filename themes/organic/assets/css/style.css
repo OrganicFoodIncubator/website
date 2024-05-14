@@ -112,6 +112,9 @@ footer {
   text-align: center;
   margin: auto;
 }
+#hero h1 {
+  text-shadow: #9ccc3c 1px 0 10px;
+}
 .centered {
   text-align: center;
 }
