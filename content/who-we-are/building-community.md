@@ -29,7 +29,7 @@ https://www.nps.k12.nj.us/wsd/school-of-entrepreneurial-studies/
 
 The Deron Schools
 
-![Deron School students pulling bottles off accumulation table](/images/uploads/img_0851.jpg)
+![Deron School students pulling bottles off accumulation table](/images/uploads/img_0851.jpg "Deron School")
 
 The Deron School has an active teacher supervised participatory learning presence at our facility most days of the school year. The students do meaningful work each day and acquire skills and confidence. 
 
