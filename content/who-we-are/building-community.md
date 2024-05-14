@@ -35,6 +35,14 @@ The Deron School has an active teacher supervised participatory learning presenc
 
 With campuses in Union, NJ and Montclair, NJ, The Deron School offers a state-approved private school program for students with multiple disabilities including autism spectrum disorder (ASD) and down syndrome. Since 1967, The Deron School has provided a nurturing environment, family culture, and personalized curriculum to help students reach their greatest potential.
 
+
+
+Why We Chose The Deron School
+
+The Deron School stands out for its commitment to helping students discover their talents, conquer challenges, and fulfill their dreams. We are inspired by their dedication and are excited to be a part of these young adults' journeys towards independence and success. By integrating these incredible students into our workforce, we not only contribute to their personal and professional growth but also enrich our workplace with fresh perspectives and enthusiasm.
+
+
+
 Deron Schools
 
 https://www.deronschool.org/
