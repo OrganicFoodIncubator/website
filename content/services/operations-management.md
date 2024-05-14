@@ -1,6 +1,6 @@
 ---
 params:
-  image: /images/uploads/bottles.png
+  image: /images/uploads/dsc_0130-large.jpeg
 title: Outsourcing Solutions
 weight: 20
 ---
