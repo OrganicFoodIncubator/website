@@ -1,7 +1,7 @@
 ---
 title: About the Organic Food Incubator
 params:
-  image: /images/uploads/sauces.jpeg
+  image: /images/uploads/west-side-high-school-rider-heat-green-label.jpg
 ---
 
 ## Mission and Vision
