@@ -7,9 +7,9 @@ media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - name: about
-    label: About
-    folder: content/about/
+  - name: who-we-are
+    label: Who We Are
+    folder: content/who-we-are/
     fields:
       - label: Parameters
         name: "params"
