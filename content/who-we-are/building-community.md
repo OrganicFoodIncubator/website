@@ -29,6 +29,8 @@ https://www.nps.k12.nj.us/wsd/school-of-entrepreneurial-studies/
 
 The Deron Schools
 
+![Deron School students pulling bottles off accumulation table](/images/uploads/img_0851.jpg)
+
 The Deron School has an active teacher supervised participatory learning presence at our facility most days of the school year. The students do meaningful work each day and acquire skills and confidence. 
 
 With campuses in Union, NJ and Montclair, NJ, The Deron School offers a state-approved private school program for students with multiple disabilities including autism spectrum disorder (ASD) and down syndrome. Since 1967, The Deron School has provided a nurturing environment, family culture, and personalized curriculum to help students reach their greatest potential.
