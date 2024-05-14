@@ -1,7 +1,7 @@
 ---
 title: Building Community
 params:
-  image: /images/uploads/bottles.png
+  image: /images/uploads/dsc_0165.jpg
 ---
 OFI Building Community
 
