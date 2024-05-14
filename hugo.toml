@@ -51,7 +51,7 @@ weight = 100
 [[menus.main]]
 identifier = 'operations-management'
 parent = 'services'
-name = "Operations Management"
+name = "Outsourcing Solutions"
 pageRef = '/services/operations-management'
 weight = 110
 
