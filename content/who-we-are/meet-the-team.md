@@ -1,13 +1,15 @@
 ---
 title: Meet The Team
 params:
-  image: /images/uploads/bottles.png
+  image: /images/uploads/img_8663.jpeg
 ---
 Our team
 
 
 
 Robert Llopis
+
+
 
 Experience:
 
