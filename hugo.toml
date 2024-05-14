@@ -13,21 +13,21 @@ weight = 20
 identifier = 'about'
 parent = 'who-we-are'
 name = 'About'
-pageRef = '/about'
+pageRef = '/who-we-are/about'
 weight = 220
 
 [[menus.main]]
 identifier = 'meet-the-team'
 parent = 'who-we-are'
 name = 'Meet the Team'
-pageRef = '/about/meet-the-team'
+pageRef = '/who-we-are/meet-the-team'
 weight = 240
 
 [[menus.main]]
 identifier = 'building-community'
 parent = 'who-we-are'
 name = 'Building Community'
-pageRef = '/about/building-community'
+pageRef = '/who-we-are/building-community'
 weight = 260
 
 [[menus.main]]
