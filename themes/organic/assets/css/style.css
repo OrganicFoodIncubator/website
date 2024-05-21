@@ -223,6 +223,10 @@ td {
   text-align: center;
 }
 
+table {
+  margin: 1em;
+}
+
 tr:nth-child(even) {
   background-color: #e0e0eb;
 }
