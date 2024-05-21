@@ -47,3 +47,17 @@ collections:
           - { label: "Hero Image", name: "image", widget: "image" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: info
+    label: Info
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "services"
+      - label: Parameters
+        name: "params"
+        widget: object
+        fields:
+          - { label: "Hero Image", name: "image", widget: "image" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

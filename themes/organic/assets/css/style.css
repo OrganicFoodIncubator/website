@@ -1,10 +1,12 @@
 * {
   box-sizing: border-box;
 }
+
 html {
   font-size: 100%;
   overflow-y: scroll;
 }
+
 body {
   font-family: Avenir, sans-serif;
   font-size: 20px;
@@ -13,37 +15,45 @@ body {
   padding: 0;
   line-height: 1.5;
 }
+
 a {
   color: #9ccc3c;
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }
+
 small {
   font-size: 0.8em;
 }
+
 .learn-more {
   text-align: center;
   font-size: 0.8em;
 }
+
 header {
   color: #f2f2f2;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 #navigation {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
 }
+
 nav {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+
 nav ul {
   display: flex;
   flex-direction: column;
@@ -51,28 +61,34 @@ nav ul {
   padding: 0;
   margin: 0;
 }
+
 nav li {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
 }
+
 nav a {
   display: flex;
   font-size: 1.1em;
   font-weight: bold;
   color: #f2f2f2;
 }
+
 nav a:last-child {
   border-bottom: none;
 }
+
 nav a:hover {
   text-decoration: none;
 }
+
 section {
   width: 80%;
   margin: auto;
 }
+
 footer {
   display: flex;
   flex-direction: column;
@@ -82,24 +98,30 @@ footer {
   text-align: center;
   padding: 0.5em;
 }
+
 .fa-square-facebook {
   color: #1877f2;
 }
+
 .fa-square-x-twitter {
   color: #f2f2f2;
 }
+
 .fa-square-instagram {
   color: #dd2a7b;
 }
+
 .fa-square-youtube {
   color: #ff0000;
 }
+
 #logo {
   height: 60px;
   background-color: #f2f2f266;
   border-radius: 2px;
   margin: 5px;
 }
+
 #hero {
   min-height: 75vh;
   font-size: 1.2em;
@@ -112,57 +134,71 @@ footer {
   text-align: center;
   margin: auto;
 }
+
 #hero h1 {
   text-shadow: #9ccc3c 1px 0 10px;
 }
+
 .centered {
   text-align: center;
 }
+
 #menu-toggle {
   background-color: transparent;
   border: none;
   font-size: 1.5em;
   cursor: pointer;
 }
+
 .service {
   border-radius: 5px;
   background-color: #e0e0eb;
 }
+
 .service h3 {
   text-align: center;
 }
+
 .service p {
   text-align: center;
   font-size: 0.75em;
 }
+
 article {
   display: flex;
   flex-direction: column;
   margin-bottom: 1em;
 }
+
 article a {
   color: #0a0a0a;
   font-size: 1.2em;
   font-weight: bold;
 }
+
 article p {
   font-size: 0.8em;
 }
+
 #articles {
   display: flex;
   flex-direction: column;
 }
+
 #author-info {
   display: flex;
   flex-direction: row;
 }
+
 .dropdown {
   cursor: pointer;
 }
+
 .dropdown-header {
   font-weight: bold;
   padding: 1em;
 }
+
 .dropdown-content {
   display: none;
   flex-direction: column;
@@ -173,29 +209,48 @@ article p {
   font-size: 0.75em;
   z-index: 1;
 }
+
 .dropdown:hover .dropdown-content {
   display: flex;
 }
+
 table,
 tr,
 th,
 td {
   border: 1px solid #0a0a0a;
   border-collapse: collapse;
+  text-align: center;
 }
+
+tr:nth-child(even) {
+  background-color: #e0e0eb;
+}
+
 .pagination {
   list-style-type: none;
   text-align: center;
   padding: 0;
 }
+
 .page-item {
   display: inline-block;
 }
+
+.form-container {
+  text-align: center;
+  border: 1px solid #9ccc3c;
+  margin: 1em;
+  padding: .5em;
+  border-radius: 5px;
+}
+
 @media screen and (min-width: 768px) {
   #services {
     display: flex;
     flex-direction: row;
   }
+
   .service {
     margin: 0.5em;
     padding: 0.5em;
@@ -203,28 +258,36 @@ td {
     display: flex;
     flex-direction: column;
   }
+
   #navigation {
     flex-direction: row;
   }
+
   nav {
     flex-direction: row;
   }
+
   nav ul {
     flex-direction: row;
   }
+
   nav a {
     padding: 0.5em;
   }
+
   #menu-toggle {
     display: none;
   }
+
   article {
     flex-direction: row;
   }
+
   article img {
     margin-left: auto;
     padding: 1em;
   }
+
   footer {
     flex-direction: row;
     justify-content: space-around;
