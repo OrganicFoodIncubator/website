@@ -3,7 +3,6 @@ title: About the Organic Food Incubator
 params:
   image: /images/uploads/west-side-high-school-rider-heat-green-label.jpg
 ---
-
 ## Mission and Vision
 
 To be the premier specialty US co-packer, dedicated to crafting distinctive and
@@ -72,5 +71,11 @@ nurturing food innovation, promoting sustainability, and empowering food
 entrepreneurs to bring their visions to fruition. Its history is a testament to
 the power of collaboration, creativity, and dedication to making a positive
 impact on the food industry and the planet.
+
+At Organic Food Incubator, we're dedicated to helping your business thrive in the competitive CPG landscape. Connect with us to see how we can transform your ideas into successful market realities.
+
+
+
+
 
 [Meet our wonderful team](/who-we-are/meet-the-team)
