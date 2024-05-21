@@ -4,13 +4,11 @@ params:
 title: Contract Manufacturing
 weight: 10
 ---
-
-
-###### Commercialize Your New Or Existing Food Business
-
 Welcome to Organic Food Incubator (OFI), your partner in innovation and growth in the consumer packaged goods industry. Today, we're proud to serve a range of clients, including top CPG brands, renowned restaurants, and ambitious entrepreneurs who are crafting the next big thing in the food sector.
 
 <!--more-->
+
+###### Commercialize Your New Or Existing Food Business
 
 ###### Contract Manufacturing
 
