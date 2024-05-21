@@ -31,13 +31,6 @@ pageRef = '/who-we-are/building-community'
 weight = 260
 
 [[menus.main]]
-identifier = 'friends-of-the-ofi'
-parent = 'who-we-are'
-name = 'Friends of the OFI'
-pageRef = '/who-we-are/friends-of-the-ofi'
-weight = 280
-
-[[menus.main]]
 identifier = 'services'
 name = 'What We Do'
 weight = 40
