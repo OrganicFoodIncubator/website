@@ -49,11 +49,8 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: info
     label: Info
+    folder: "/info"
     fields:
-      - label: "Layout"
-        name: "layout"
-        widget: "hidden"
-        default: "services"
       - label: Parameters
         name: "params"
         widget: object
