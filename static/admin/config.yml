@@ -49,7 +49,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: info
     label: Info
-    folder: "/info"
+    folder: "info"
     fields:
       - label: Parameters
         name: "params"
