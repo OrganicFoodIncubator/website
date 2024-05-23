@@ -9,7 +9,9 @@ OFI’s Bloomfield New Jersey home is in a mixed use, primarily residential neig
 
 ## Commitment to Our Values
 
-##### West Side High School
+
+
+# West Side High School
 
 Principal Akbar Cook and some like minded school alumni reached out to OFI as a natural next step after building and farming raised beds to grow food for their local community. West Side High Principal Cook Received $100,000 from Ellen Degeneres to honor his dedication to his students and unique insights on how best to help the whole student. OFI and WSHS teamed up to bring the full entrepreneurial experience to some exceptional students. They grew the peppers, cooked, Bottled, labeled and sold red and green “Rider Heat” hot sauce.
 
@@ -31,13 +33,7 @@ https://www.nps.k12.nj.us/wsd/school-of-entrepreneurial-studies/
 
 
 
-
-
-#### The Deron Schools
-
-![Deron School students pulling bottles off accumulation table]( "Deron School")
-
-## Commitment to Our Values
+# The Deron School
 
 The Deron School has an active teacher supervised participatory learning presence at our facility most days of the school year. The students do meaningful work each day and acquire skills and confidence. 
 
