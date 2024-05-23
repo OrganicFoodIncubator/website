@@ -1,9 +1,9 @@
-+++
-title = "Our Blog"
-paginate = 5
-+++
-
-The food and beverage manufacturing industry is full of important info and
-resources that new and aspiring businesses and entrepreneurs need to know. Our
-blog will show you some of the best resources, content, and years of knowledge
-from our culinary experts and product developers.
+---
+title: Our Blog
+paginate: 5
+params:
+  image: /images/uploads/dsc_0004-2.jpg.webp
+  author: Mike Schwartz
+date: 2024-05-23T12:04:00.000Z
+---
+We are happy to share the most relevant information, experience and resources relating to the food and beverage manufacturing industry that established and aspiring businesses can use to thrive. Our blog will show you some of the best  content gained over many years from our culinary experts and product developers.
