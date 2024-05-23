@@ -8,8 +8,6 @@ The Quartermaster wins the war. We can help at every stage to ensure that your i
 
 <!--more-->
 
-**Sourcing and Logistics-** The Quartermaster wins the war. We can help at every stage to ensure that your inputs (Ingredients, containers, labels, etc.)  arrive in a timely manner ensuring that your sales commitments are met without costly and embarrassing delays. Our resource planning tools will help smooth the path forward.
-
 ##### Expertise and Specialization
 
  At the core of the Organic Food Incubator's strengths in outsourcing solutions is its deep expertise and specialization in the food industry. With years of focused experience, the OFI team possesses a nuanced understanding of the food sector and the challenges that food entrepreneurs face. This specialization enables the creation of tailored solutions that are efficient and highly effective. OFI's expertise ensures that every solution is based on thorough research, best practices, and innovative approaches, making its services reliable and sought-after by clients who seek partners that can add genuine value to their operations.
