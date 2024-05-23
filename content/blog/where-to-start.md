@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Where To Start
+title: Where To Start?
 params:
   image: /images/uploads/bottles.png
   author: Mike Schwartz
