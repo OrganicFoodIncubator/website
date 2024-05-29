@@ -2,7 +2,7 @@
 title: Coaching and Training
 weight: 30
 params:
-  image: /images/uploads/bob_beamon_triple.jpg
+  image: /images/uploads/coaching.png
 ---
  Our decades of experience help navigate product scaling complexities, understand consumer trends, and comply with various food safety regulators. With OFI support, you can make informed decisions, avoid common pitfalls, and achieve long-term success in the competitive food industry.
 
