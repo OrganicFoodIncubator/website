@@ -4,13 +4,11 @@ weight: 30
 params:
   image: /images/uploads/bob_beamon_triple.jpg
 ---
-A coach is essential in developing a food brand. They provide industry-specific expertise, personalized guidance, and mentorship.
+ Our decades of experience help navigate product scaling complexities, understand consumer trends, and comply with various food safety regulators. With OFI support, you can make informed decisions, avoid common pitfalls, and achieve long-term success in the competitive food industry.
 
 <!--more-->
 
 ## Industry specific expertise, personalized guidance, and mentorship.
-
- Our decades of experience help navigate product scaling complexities, understand consumer trends, and comply with various food safety regulators. With OFI support, you can make informed decisions, avoid common pitfalls, and achieve long-term success in the competitive food industry.
 
 The Organic Food Incubator offers tailored levels of help depending on client needs and business stage of development. We can help you get out of the blocks fast by working on your schedule process or recipe and help refine your process to bring greater efficiencies.
 
