@@ -14,13 +14,15 @@ Welcome to Organic Food Incubator (OFI), your partner in innovation and growth i
 
 At OFI, we understand the complexities of launching a new product. We specialize in helping companies test products efficiently, moving from concept to market-ready in months instead of years. Our agile approach allows us to navigate regulations, enhance processes, and package products swiftly. Our state-of-the-art cooking, filling, and labeling equipment is designed to meet a broad spectrum of client needs, significantly cutting product development time. This enables our clients to quickly adapt to market trends with minimal risk and investment. With OFI, you get to preview your product's market reception before making a significant commitment. Additionally, we uphold the highest standards of discretion and confidentiality, ensuring your innovative ideas remain secure.
 
+![](/images/uploads/product-list.png "Sample Product List")
+
+
+
 ###### Co-Packing
 
 OFI's co-packing solution involves our handling only the packaging aspect of the production process. You provide their pre-manufactured products, and our team packages these products under the company’s label. This is ideal for companies that handle the manufacturing part themselves but need OFI’s additional resources or expertise to scale up their packaging efforts efficiently.
 
 Our co-packing services provide a seamless solution for companies looking to bring their organic or conventional food products to market efficiently and effectively. We specialize in small-to-medium production runs, perfect for businesses at any stage—from startups to established brands looking to expand their product offerings. Our comprehensive co-packing solution includes everything from ingredient sourcing and formulation to processing, packaging, and labeling, all compliant with the highest quality standards. We pride ourselves on our ability to adapt to the unique needs of our clients, offering flexible production capabilities and meticulous quality control to ensure that each product we handle meets your specifications and consumer expectations. 
-
-
 
 ###### Private Label
 
