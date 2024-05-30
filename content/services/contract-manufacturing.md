@@ -14,6 +14,8 @@ Welcome to Organic Food Incubator (OFI), your partner in innovation and growth i
 
 At OFI, we understand the complexities of launching a new product. We specialize in helping companies test products efficiently, moving from concept to market-ready in months instead of years. Our agile approach allows us to navigate regulations, enhance processes, and package products swiftly. Our state-of-the-art cooking, filling, and labeling equipment is designed to meet a broad spectrum of client needs, significantly cutting product development time. This enables our clients to quickly adapt to market trends with minimal risk and investment. With OFI, you get to preview your product's market reception before making a significant commitment. Additionally, we uphold the highest standards of discretion and confidentiality, ensuring your innovative ideas remain secure.
 
+**This is a sample of OFI food and beverage production capabilities**
+
 ![](/images/uploads/product-list.png "Sample Product List")
 
 
