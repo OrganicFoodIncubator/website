@@ -3,7 +3,7 @@ layout: blog
 title: 4 Benefits Of Having An Organic Food Certified Product
 params:
   author: Mike Schwartz
-  image: /images/uploads/logo.png
+  image: /images/uploads/filler.jpeg
 date: 2024-05-23T12:26:00.000Z
 ---
 4 Benefits Of Having An Organic Food Certified Product
