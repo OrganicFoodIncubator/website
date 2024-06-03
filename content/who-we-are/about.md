@@ -28,10 +28,6 @@ New York City.
 
 OFI's journey began with humble beginnings in a small facility in the Hell's Kitchen neighborhood in Manhattan. The business began as the brand BAO Food and Beverages which made premium Kombucha and fermented products. The business expanded to a large commercial food manufacturing facility in Queens where the OFI provided rental kitchen space and expertise to aspiring startups. As the demand for organic and natural products grew, so did the need for facilities like OFI that could help new business entrepreneurs navigate the complex processes of regulation and safe food production. 
 
-![](/images/uploads/y20foodhub-superjumbo.webp "OFI Expands to Queens to Support other Food Brands")
-
-
-
 Over the years, OFI expanded its operations and moved to a larger facility in Bloomfield New Jersey to accommodate the growing number of clients and the increasing complexity of their production needs.
 
 The key aspects of OFI's history are its commitment to sustainability and
