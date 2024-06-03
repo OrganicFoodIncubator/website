@@ -10,11 +10,7 @@ Create and refine your recipe to be delicious, safe, and shelf-ready. Led by a t
 
 ## Product Development Expertise
 
- Our background in crafting delicious, safe, and FDA-compliant products is unmatched. We can expedite your [schedule process application](https://www.youtube.com/watch?v=H5DUuQhRGiE&list=PLejBWtM-V72jXgshMlwFLZDj1Kbmo082l&t=33s), refine your recipes quickly, and address any product challenges with ease. At OFI, we're more than just a service provider—we're problem solvers who are eager to help your product succeed.
-
-![](/images/uploads/schedule-process.png "Schedule Process Steps")
-
-
+ Our background in crafting delicious, safe, and FDA-compliant products is unmatched. We can expedite your [scheduled process application](https://www.youtube.com/watch?v=H5DUuQhRGiE&list=PLejBWtM-V72jXgshMlwFLZDj1Kbmo082l&t=33s), refine your recipes quickly, and address any product challenges with ease. At OFI, we're more than just a service provider—we're problem solvers who are eager to help your product succeed.
 
 ## Completing Your Scheduled Process
 
