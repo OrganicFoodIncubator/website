@@ -1,7 +1,7 @@
 ---
 title: Meet The Team
 params:
-  image: /images/uploads/screenshot-2024-06-03-at-10.53.41 am.png
+  image: /images/uploads/bg.jpg
 ---
 **Employee of the Month - June 2024**
 
