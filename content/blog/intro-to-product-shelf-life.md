@@ -3,7 +3,7 @@ layout: blog
 title: Intro to Product Shelf Life
 params:
   author: Mike Schwartz
-  image: /images/uploads/logo.png
+  image: /images/uploads/filler.jpeg
 date: 2024-05-21T13:40:00.000Z
 ---
 For many shelf stable products, acidity is a very important aspect of development, as it can help ensure shelf life stability. During the process Low pH and heat act together as the protection to prevent pathogenic bacteria, yeast and mold growth. In small batch food manufacturing,  pH is a critical factor enabling your product to be shelf-stable. 
