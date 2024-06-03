@@ -2,7 +2,7 @@
 title: Our Blog
 paginate: 5
 params:
-  image: /images/uploads/mike-staring-seriously-at-computer.webp
+  image: /images/uploads/mike-staring-seriously-at-computer-1.webp
   author: Mike Schwartz
 date: 2024-05-23T12:04:00.000Z
 ---
