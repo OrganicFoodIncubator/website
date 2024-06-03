@@ -4,7 +4,7 @@ params:
 title: Contract Manufacturing
 weight: 10
 ---
-Welcome to Organic Food Incubator (OFI), your partner in innovation and growth in the consumer packaged goods industry. Today, we're proud to serve a range of clients, including top CPG brands, renowned restaurants, and ambitious entrepreneurs who are crafting the next big thing in the food sector.
+Welcome to Organic Food Incubator (OFI), your partner in innovation and growth in the consumer packaged goods industry. Our agile approach allows us to navigate regulations, enhance processes, and package products swiftly. Our state-of-the-art cooking, filling, and labeling equipment is designed to meet a broad spectrum of client needs, significantly cutting product development time. This enables our clients to quickly adapt to market trends with minimal risk and investment. With OFI, you get to preview your product's market reception before making a significant 
 
 <!--more-->
 
@@ -17,8 +17,6 @@ At OFI, we understand the complexities of launching a new product. We specialize
 **This is a sample of OFI food and beverage production capabilities**
 
 ![](/images/uploads/product-list.png "Sample Product List")
-
-
 
 ###### Co-Packing
 
