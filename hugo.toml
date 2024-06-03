@@ -72,7 +72,7 @@ weight = 130
 [params]
 logo = "images/logo.png"
 tagline = "Solutions For Food And Beverage Manufacturing"
-subtitle = "We specialize in creating innovative products for CPG brands, food service enterprises, and other innovators the food industry. Whether organic or conventional, offer a complete solution for businesses eager to launch new offerings or expand their existing products in the market. We are a team of chefs, food scientists, and business leaders with a passion for all things food and business."
+subtitle = "We specialize in creating innovative products for CPG brands, food service enterprises, and other innovators the food industry. Whether organic or conventional, OFI offers a complete solution for businesses eager to launch new offerings or expand their existing products in the market. We are a team of chefs, food scientists, and business leaders with a passion for all things food and business."
 default_image = "/images/uploads/bg.jpg"
 
   [params.contact_info]

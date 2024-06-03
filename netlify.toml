@@ -5,3 +5,8 @@ TZ = "America/New_York"
 [build]
 publish = "public"
 command = "hugo --gc --minify"
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
