@@ -12,9 +12,33 @@ Create and refine your recipe to be delicious, safe, and shelf-ready. Led by a t
 
  Our background in crafting delicious, safe, and FDA-compliant products is unmatched. We can expedite your [schedule process application](https://www.youtube.com/watch?v=H5DUuQhRGiE&list=PLejBWtM-V72jXgshMlwFLZDj1Kbmo082l&t=33s), refine your recipes quickly, and address any product challenges with ease. At OFI, we're more than just a service provider—we're problem solvers who are eager to help your product succeed.
 
-
-
 ![](/images/uploads/schedule-process.png "Schedule Process Steps")
+
+
+
+## Completing Your Scheduled Process
+
+### We Test It
+
+We test the pH levels of your product for shelf-life stability.
+
+### We Review It
+
+We review and offer suggestions on your recipe (You may accept or refuse them).
+
+## We Submit It
+
+We submit all the documents, recipe, and samples to the processing authority for you.
+
+### We Forward It
+
+When the scheduled process arrives we will notify you and forward it to you.
+
+## We Record It
+
+We submit all the documents, recipes, and samples to the relevant processing authorities for you.
+
+
 
 Navigating the USDA National Organic Plan (NOP) can be overwhelming. The OFI team has 15 years of experience working with a variety of USDA organic certifying bodies and can help develop your complete NOP  or adjust your formula so that it fits into the OFI plan for co-manufacturing at our site. As a guideline we use 15% as the additional cost for organic certification including fees and additional certified organic ingredient costs.
 
