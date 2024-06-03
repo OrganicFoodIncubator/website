@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: dashed underline;
 }
 
 small {
@@ -30,6 +30,7 @@ small {
 }
 
 .learn-more {
+  margin: auto auto 0;
   text-align: center;
   font-size: 0.8em;
 }
@@ -74,6 +75,8 @@ nav a {
   font-size: 1.1em;
   font-weight: bold;
   color: #f2f2f2;
+  text-shadow: #9ccc3c 1px 0 10px;
+
 }
 
 nav a:last-child {
@@ -116,15 +119,13 @@ footer {
 }
 
 #logo {
-  height: 60px;
-  background-color: #f2f2f266;
-  border-radius: 2px;
   margin: 5px;
-  padding: 5px;
+  height: 75%;
+  width: 75%;
 }
 
 #hero {
-  min-height: 75vh;
+  min-height: 45vh;
   font-size: 1.2em;
   display: flex;
   flex-direction: column;
@@ -172,7 +173,6 @@ article {
 }
 
 article a {
-  color: #0a0a0a;
   font-size: 1.2em;
   font-weight: bold;
 }
@@ -253,6 +253,17 @@ tr:nth-child(even) {
 img {
   display: block;
   margin: auto;
+}
+
+.title-metadata {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.metadata {
+  font-size: 0.9em;
+  color: #4c4c4c;
 }
 
 @media screen and (min-width: 768px) {

@@ -6,10 +6,14 @@
   {{ range (.Paginator 5).Pages }}
   <article>
     <div class="article-preview">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      <small class="metadata">By {{ .Params.Author }} | <time datetime="{{ .Date }}">{{ .Date | time.Format
-          ":date_medium" }}</time></small>
-      {{ .Summary }}
+      <div class="title-metadata">
+        <a class="headline" href="{{ .Permalink }}">{{ .Title }}</a>
+        <small class="metadata">By {{ .Params.Author }} | <time datetime="{{ .Date }}">{{ .Date | time.Format
+            ":date_medium" }}</time></small>
+      </div>
+      <p class="summary">
+        {{ .Summary }}
+      </p>
     </div>
     {{ with .Resources.Get .Params.thumbnail }}
     <img src="{{ .Permalink }}">
