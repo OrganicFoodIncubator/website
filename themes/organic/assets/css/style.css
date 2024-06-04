@@ -213,6 +213,7 @@ article p {
 
 .dropdown:hover .dropdown-content {
   display: flex;
+  position: absolute;
 }
 
 table,
@@ -253,6 +254,7 @@ tr:nth-child(even) {
 img {
   display: block;
   margin: auto;
+  max-width: 100%;
 }
 
 .title-metadata {
