@@ -22,12 +22,10 @@ Now that your product has been certified it has the potential to open more doors
 
 Every business wants to be successful and make money. To do that, you have to get your product to profitability as quickly as possible. How does getting your product organic food certified help you generate profit? Consider this: if you’ve been to Whole Foods Supermarket before, you may have noticed that organic foods are almost always more expensive than conventional non-organic food. You can price your products higher when they are organic certified because some people only buy and eat organic food. There are many opportunities to make money in the organic food industry because of product differentiation and perceived higher quality.
 
- 
-
 4. Organic Food Certified Trust
 
 Many people take their health very seriously and so are very deliberate about what they put into their bodies. These customers are far more likely to buy your product if it’s organic. Right now, the organic lifestyle is trending upwards. Consumers trust brands that are marked as certified organic more and more as awareness increases. There are many positive possibilities and much potential for business growth in this industry.
 
 In a world where product reputation is extremely important, you should always strive to produce the best versions of your products. It’s hard to rebuild a good reputation once you’ve lost it. Your customers are putting their trust in your product because of the organic certified seal. You can’t claim your product is organic when it’s not, as you can face serious legal consequences for doing so.
 
-When you’re ready for your organic certification you can contact us at Organic Food Incubator to help you get it started. Contact us HERE!
+When you’re ready for your organic certification you can contact us at Organic Food Incubator to help you get it started.
