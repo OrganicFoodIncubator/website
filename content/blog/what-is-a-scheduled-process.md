@@ -4,7 +4,7 @@ title: What is a Scheduled Process?
 params:
   image: /images/uploads/bottles.png
   author: Mike Schwartz
-date: 2024-05-23T12:15:00.000Z
+date: 2024-04-09T12:15:00.000Z
 ---
 
 What Is A Scheduled Process?
