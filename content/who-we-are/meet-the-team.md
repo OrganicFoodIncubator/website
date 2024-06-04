@@ -3,11 +3,11 @@ title: Meet The Team
 params:
   image: /images/uploads/team2.jpg
 ---
-**Employee of the Month - June 2024**
+## Employee of the Month - June 2024
 
 Robert Llopis
 
-**Background and Experience**
+### Background and Experience
 
 * Worked at some prestigious locations in NYC. Started my career at the Original Le Cirque for Sirio Maccioni , went on to open Osteria del Circo, their Italian spin off of Le Cirque.
 * Went on to join the St. Regis Hotel as the Food and Beverage Purchasing Manager. As well as assisted  Chef Christian Delouvrier of Lespinasse and their purchasing program.
@@ -16,7 +16,7 @@ Robert Llopis
 * Opening General Manager for Apella, Event Space at Alexandria Center.
 * Worked at the Rainbow Room at Rockefeller Center when it reopened in 2015. 
 
-**Motivation**
+### Motivation
 
 Why do I do what I do? 
 
