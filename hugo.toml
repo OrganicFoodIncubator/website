@@ -7,6 +7,7 @@ theme = 'organic'
 [[menus.main]]
 identifier = 'who-we-are'
 name = 'Who We Are'
+pageRef = '/who-we-are'
 weight = 20
 
 [[menus.main]]
@@ -33,6 +34,7 @@ weight = 260
 [[menus.main]]
 identifier = 'services'
 name = 'What We Do'
+pageRef = '/services'
 weight = 40
 
 [[menus.main]]

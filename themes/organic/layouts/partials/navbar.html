@@ -1,18 +1,14 @@
 <nav>
   {{ range site.Menus.main }}
-  {{ if .HasChildren }}
   <div class="dropdown">
-    <span class="dropdown-header">{{ .Name }}</span>
+    <a href="{{ .URL }}" class="dropdown-header">{{ .Name }}</a>
+    {{ if .HasChildren }}
     <div class="dropdown-content">
       {{ range .Children }}
       <a href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
     </div>
+    {{ end }}
   </div>
-  {{ else }}
-  {{ end }}
-  {{ if .URL }}
-  <a href="{{ .URL }}">{{ .Name }}</a>
-  {{ end }}
   {{ end }}
 </nav>
