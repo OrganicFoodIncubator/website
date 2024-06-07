@@ -4,12 +4,11 @@ params:
 title: Contract Manufacturing
 weight: 10
 ---
-
 Welcome to Organic Food Incubator (OFI), your partner in innovation and growth in the consumer packaged goods industry.
 
 <!--more-->
 
-Our agile approach allows us to navigate regulations, enhance processes, and package products swiftly. Our state-of-the-art cooking, filling, and labeling equipment is designed to meet a broad spectrum of client needs, significantly cutting product development time. This enables our clients to quickly adapt to market trends with minimal risk and investment. With OFI, you get to preview your product's market reception before making a significant
+Our agile approach allows us to navigate regulations, enhance processes, and package products swiftly. Our state-of-the-art cooking, filling, and labeling equipment is designed to meet a broad spectrum of client needs, significantly cutting product development time. This enables our clients to quickly adapt to market trends with minimal risk and investment. With OFI, you get to preview your product's market reception before making a significant investment in equipment.
 
 ## Commercialize Your New Or Existing Food Business
 
@@ -19,22 +18,22 @@ At OFI, we understand the complexities of launching a new product. We specialize
 
 ### A Sample of OFI Food and Beverage Production Capabilities
 
-- Healthy Beverages
-- Ice Tea And Lemonades
-- Hot Sauces
-- BBQ Sauces
-- Kim Chi
-- Sauerkraut
-- Fermented Sauces
-- Soups
-- Powdered And Dry Products
-- Jams & Jellies
-- Cold Brew Coffee
-- Tonic & Herbal Drinks
-- Fermented Beverages
-- Kombucha
-- Carbonated Beverages
-- Fruit & Veggie Drinks
+* Healthy Beverages
+* Ice Tea And Lemonades
+* Hot Sauces
+* BBQ Sauces
+* Kim Chi
+* Sauerkraut
+* Fermented Sauces
+* Soups
+* Powdered And Dry Products
+* Jams & Jellies
+* Cold Brew Coffee
+* Tonic & Herbal Drinks
+* Fermented Beverages
+* Kombucha
+* Carbonated Beverages
+* Fruit & Veggie Drinks
 
 ### Co-Packing
 
