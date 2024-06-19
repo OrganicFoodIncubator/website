@@ -6,7 +6,6 @@ params:
   image: /images/uploads/filler.jpeg
 date: 2024-05-01T13:40:00.000Z
 ---
-
 For many shelf stable products, acidity is a very important aspect of development, as it can help ensure shelf life stability. During the process Low pH and heat act together as the protection to prevent pathogenic bacteria, yeast and mold growth. In small batch food manufacturing, pH is a critical factor enabling your product to be shelf-stable.
 
 The pH scale is a 14-point reference scale from 0 to 14, where 0 is the most acidic and 14 is the most alkaline. 7 is considered neutral with acidic below that value and alkaline above. Most microbes prefer a neutral or near-neutral environment. Acidity is measured with a pH meter. There are many types of pH meters, but generally, a digital unit with a probe is more accurate. They can cost $250 or more, and a good meter is worth the investment. The meter must be calibrated frequently to give accurate measurements and requires buffering liquid for this procedure. As a standard operating procedure (SOP), we calibrate our pH meter at the beginning of every day. This equipment can be purchased from a reputable company such as Cole Parmer.
@@ -17,4 +16,4 @@ To be safely packed, the product has a general pH of less than 4 and a filling t
 
 This type of processing is called “hot fill and hold” and this control is essential to ensure that your product is safely manufactured, will have a long shelf life stability, and will be safe for your customers.
 
-You can continue to read: The importance Of A Scheduled Process?
+You can continue to read: What is a Scheduled Process?
