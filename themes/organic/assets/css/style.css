@@ -145,6 +145,10 @@ footer {
   text-align: center;
 }
 
+.embed-wrapper {
+  padding: 1em;
+}
+
 #menu-toggle {
   background-color: transparent;
   border: none;
@@ -278,6 +282,18 @@ hr {
 
 textarea {
   max-width: 100%;
+}
+
+#team-members-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.team-member {
+  padding: 5px;
+  text-align: center;
+  width: 50%;
 }
 
 @media screen and (min-width: 768px) {
